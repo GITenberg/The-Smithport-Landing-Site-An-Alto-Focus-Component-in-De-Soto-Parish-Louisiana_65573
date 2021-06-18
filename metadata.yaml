@@ -1,0 +1,29 @@
+_repo: The-Smithport-Landing-Site-An-Alto-Focus-Component-in-De-Soto-Parish-Louisiana_65573
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Webb, Clarence H.
+    alias: Webb, Clarence Hungerford
+    birthdate: 1902
+    deathdate: 1999
+    gutenberg_agent_id: '53413'
+    url: http://www.gutenberg.org/2009/agents/53413
+    wikipedia: https://en.wikipedia.org/wiki/Clarence_Hungerford_Webb
+description: ''
+gutenberg_issued: '2021-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65573'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Smithport Landing Site (La.)'
+- !lcsh 'Louisiana -- Antiquities'
+- !lcsh 'De Soto Parish (La.) -- Antiquities'
+- !lcsh 'Indians of North America -- Louisiana -- De Soto Parish -- Antiquities'
+- GITenberg
+title: 'The Smithport Landing Site: An Alto Focus Component in De Soto Parish, Louisiana'
+url: http://www.gutenberg.org/ebooks/65573
